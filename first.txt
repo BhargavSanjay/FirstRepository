@@ -1,2 +1,2 @@
 First file GIT
-Learn GIT
+Learn GIT and GITHUB
